@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Michał 👋
 
-<!--
-**Majkel4221/Majkel4221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Specialist focused on:
+- AI tools
+- Automation
+- Business productivity
+- AI workflows
 
-Here are some ideas to get you started:
+## Certifications
+- Google AI Professional Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building AI-powered business and automation projects.
